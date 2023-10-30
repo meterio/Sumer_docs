@@ -8,4 +8,4 @@ description: >-
 
 Sumer is a cross-chain synthetic assets protocol with a lending and borrowing market, deployed simultaneously on a network of supported chains.
 
-Sumer provides a credit card-like experience to promote multichain liquidity and seamless cross-chain smart contract communications.
+Sumer enables creation of SuTokens (Synthetic Assets of USD, ETH and BTC) to provide a credit card-like experience to users. SuTokens break cross-chain liquidity & smart contract communication barriers while enabling non-custodial, highly decentralized & secure cross- chain transfers.

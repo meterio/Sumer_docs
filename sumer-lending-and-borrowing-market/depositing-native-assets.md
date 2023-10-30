@@ -7,14 +7,14 @@
 5. The user can choose whether he wants to use the supplied asset as collateral or not&#x20;
 6.  Key Protocol Parameter determined through the Governance process are;&#x20;
 
-    1. Optimal Utilization Rate of the liquidity pool&#x20;
-    2. Collateral Value&#x20;
-    3. Maximum Collateral Ratio/ Loan to Value&#x20;
-    4. Liquidation Threshold&#x20;
-    5. Liquidation Incentive&#x20;
-    6. Deposit Interest Rate&#x20;
-    7. Deposit Cap&#x20;
-    8. Reserve Factor&#x20;
+    * Optimal Utilization Rate of the liquidity pool&#x20;
+    * Collateral Value&#x20;
+    * Maximum Collateral Ratio/ Loan to Value&#x20;
+    * Liquidation Threshold&#x20;
+    * Liquidation Incentive&#x20;
+    * Deposit Interest Rate&#x20;
+    * Deposit Cap&#x20;
+    * Reserve Factor&#x20;
 
 
 
