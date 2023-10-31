@@ -6,13 +6,13 @@ description: Sumer Synthetic Assets
 
 Using their supplied assets as collateral, users can mint SuTokens (Initially SuUSD, SuETH, SuBTC.) from Sumer’s mint function to be traded, farmed or spent across multiple chains.&#x20;
 
-### <mark style="background-color:blue;">Collateral Factor or LTV</mark>
+### <mark style="background-color:blue;">Collateral Rate or LTV</mark>
 
-Each SuToken carries Collateral Factors (i.e. Loan-to-Value ratio), which signify the amount available to be minted for each collateralized asset.&#x20;
+Each SuToken carries Collateral Rates (i.e. Loan-to-Value ratio), which signify the amount available to be minted for each collateralized asset.&#x20;
 
-A Collateral Factor of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
+A Collateral Rate of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
 
-Applicable Collateral factors while minting SuTokens are;
+Applicable Collateral Rates while minting SuTokens are;
 
 #### <mark style="background-color:blue;">Mint Rate</mark>
 

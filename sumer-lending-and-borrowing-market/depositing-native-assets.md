@@ -30,7 +30,7 @@ Key Protocol Parameter determined through the Governance process are;&#x20;
 
 * Optimal Utilization Rate of the liquidity pool&#x20;
 * Collateral Value&#x20;
-* Maximum Collateral Ratio/ Loan to Value&#x20;
+* Maximum Collateral Rate/ Loan to Value&#x20;
 * Liquidation Threshold&#x20;
 * Liquidation Incentive&#x20;
 * Deposit Interest Rate&#x20;

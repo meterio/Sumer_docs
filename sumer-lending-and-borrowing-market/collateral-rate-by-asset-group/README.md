@@ -1,6 +1,6 @@
-# Collateral Factor by Asset Group
+# Collateral Rate by Asset Group
 
-### <mark style="background-color:blue;">Collateral Factor by Asset Grouping</mark>&#x20;
+### <mark style="background-color:blue;">Collateral Rate by Asset Grouping</mark>&#x20;
 
 <mark style="color:yellow;">Sumer determines the ability to borrow assets or mint SuTokens based on the group of asset (homogeneous and heterogeneous) supplied as collateral.</mark>
 
@@ -8,13 +8,13 @@ Borrow/ Mint within same asset group = Higher LTV similar risk profile
 
 Borrow/ Mint across different asset group = Lower LTV due to varying risk profile
 
-### <mark style="background-color:blue;">Collateral Factor or LTV</mark>
+### <mark style="background-color:blue;">Collateral Rate or LTV</mark>
 
-Collateral Factor (i.e. Loan-to-Value ratio) signifies the value available to be borrowed/ minted for each collateralized asset.&#x20;
+Collateral Rate (i.e. Loan-to-Value ratio) signifies the value available to be borrowed/ minted for each collateralized asset.&#x20;
 
-A Collateral Factor of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
+A Collateral Rate  of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
 
-<mark style="color:yellow;">The Collateral Factor for each asset is set based on several inherent characteristics of the asset, such as availability in the reserve, normalized volatility and the asset’s liquidity in the market.</mark>&#x20;
+<mark style="color:yellow;">The Collateral Rate for each asset is set based on several inherent characteristics of the asset, such as availability in the reserve, normalized volatility and the asset’s liquidity in the market.</mark>&#x20;
 
 _<mark style="color:yellow;">**NOTE:**</mark>_ These ratios and their parameters will be determined by the Sumer Team at launch. As the protocol matures and the necessary framework is in place, the governance of these parameters will be opened to the community via Sumer’s governance process.
 

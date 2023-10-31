@@ -2,13 +2,13 @@
 
 Using the supplied assets or SuToken as collateral, users can borrow native assets (USDC, USDT, DAI, ETH, WBTC) from Sumer’s borrowing facility.&#x20;
 
-### <mark style="background-color:blue;">Collateral Factor or LTV</mark>
+### <mark style="background-color:blue;">Collateral Rate or LTV</mark>
 
-Each borrow position carries Collateral Factors (i.e. Loan-to-Value ratio), which signify the amount available to be borrowed for each collateralized asset.&#x20;
+Each borrow position carries Collateral Rates (i.e. Loan-to-Value ratio), which signify the amount available to be borrowed for each collateralized asset.&#x20;
 
-A Collateral Factor of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
+A Collateral Rate of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
 
-Applicable Collateral factors while borrowing from Sumer are;
+Applicable Collateral Rates while borrowing from Sumer are;
 
 #### <mark style="background-color:blue;">Intra Collateral Rate or LTV</mark>
 
@@ -28,7 +28,7 @@ The borrow limit is yielded as the sum of locked collateral value, times the max
 
 Borrows can be made until the user's liability reaches their position's borrow limit. . One should observe that the borrow limit fluctuates with the oracle-reported deposit asset price.&#x20;
 
-### <mark style="background-color:blue;">Borrowing Interest</mark>&#x20;
+### <mark style="background-color:blue;">Borrow Interest</mark>&#x20;
 
 The protocol charges users' interest while repaying the borrowed assets.&#x20;
 
