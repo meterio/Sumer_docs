@@ -71,8 +71,7 @@
 ## DEVELOPERS
 
 * [Smart Contracts](developers/smart-contracts.md)
-* [Core Contracts](developers/core-contracts.md)
-* [Price Oracles](developers/price-oracles.md)
+* [sdr Tokens](developers/sdr-tokens.md)
 
 ## GOVERNANCE
 
