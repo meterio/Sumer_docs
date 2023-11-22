@@ -1,3 +1,3 @@
-# How to Collateralized Tokens
+# How to Collateralize Tokens
 
-This section will be updated shortly
+{% embed url="https://youtu.be/IEELxZSwxq4" %}

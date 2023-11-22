@@ -1,3 +1,3 @@
 # How to Mint SuTokens
 
-This section will be updated shortly
+{% embed url="https://youtu.be/0sHPHUZNGvQ" %}

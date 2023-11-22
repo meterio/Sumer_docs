@@ -1,3 +1,3 @@
 # How to Deposit assets
 
-This section will be updated shortly
+{% embed url="https://youtu.be/nJP44JV3gY0" %}
