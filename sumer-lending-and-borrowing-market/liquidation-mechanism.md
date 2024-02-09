@@ -23,7 +23,9 @@ Liquidation Threshold = Collateral Rate or LTV
 Liquidation will be triggered when;
 
 ```
-Value of Borrowed Asset or Minted SuTokens > Value of Supplied Collateral 
+Value of Borrowed Asset or Minted SuTokens x LTV/ Collateral Rate
+ > 
+ Value of Supplied Collateral 
 ```
 
 This is either because the collateral decreases in value or the borrowed loan/ minted SuToken increases in value against each other.&#x20;
