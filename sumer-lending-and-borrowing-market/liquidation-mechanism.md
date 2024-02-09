@@ -38,6 +38,11 @@ When a liquidation event is triggered, the following events take place:&#x20;
 
 <mark style="color:yellow;">Anyone can participate as a liquidator for Sumer, as long as they are in possession of the corresponding collateral assets.</mark>
 
+<mark style="color:yellow;">IMPORTANT NOTES:</mark>&#x20;
+
+1. <mark style="color:yellow;">Within Sumer, 1 suUSD = 1 USD. Though suUSD mint from stables (USDC, USDT, DAI) have high collateral rate, aggressive minting can get liquidated if price of collateral drops. This is specially applicable in adverse market conditions (e.g. when USDC lost peg)</mark>
+2. <mark style="color:yellow;">Within Sumer, 1 suETH = 1 ETH. By corollary, Minting suETH with ETH collateral cannot get liquidated</mark>
+
 ### <mark style="background-color:blue;">Liquidation Incentive</mark>
 
 The liquidation discount acts as an incentive for arbitrageurs to step in and reduce the borrower’s exposure, thereby reducing the risk of loan default in the process.&#x20;
