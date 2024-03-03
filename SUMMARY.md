@@ -28,6 +28,7 @@
   * [Understanding the applicable mint limit](sumer-lending-and-borrowing-market/collateral-rate-by-asset-group/understanding-the-applicable-mint-limit.md)
 * [Deposit Native Assets](sumer-lending-and-borrowing-market/depositing-native-assets.md)
 * [Mint SuTokens](sumer-lending-and-borrowing-market/minting-sumer-assets/README.md)
+* [Redeem SuTokens](sumer-lending-and-borrowing-market/redeem-sutokens.md)
 * [Borrow Native Assets](sumer-lending-and-borrowing-market/borrowing-native-assets.md)
 * [Repay SuToken Liability](sumer-lending-and-borrowing-market/repayment-of-sutokens.md)
 * [Repay Borrowed Native Assets](sumer-lending-and-borrowing-market/repayment-of-borrowed-native-assets.md)
