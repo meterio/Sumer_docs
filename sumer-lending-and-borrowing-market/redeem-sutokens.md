@@ -10,7 +10,7 @@ To maintain Pegging, SuTokens can be redeem to a basket of underlying assets wit
 
     * `baseRate` is decayed based on time passed since the last fee event
     * `baseRate` is incremented by an amount proportional to the fraction of the total suToken supply that was redeemed
-    * The redemption fee is given by `(baseRate + 0.5%) * CollateralAssets`
+    * The redemption fee is given by `(baseRate + 1%) * CollateralAssets`
 
     `baseRateNew = baseRateOld + redeemedsuToken / (2 * totalsuTokenMinted)`
 
