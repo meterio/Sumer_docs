@@ -14,4 +14,4 @@ The adoption of blockchain technology by Enterprises in the near term will be ea
 
 Even across similar use cases of Decentralized finance and NFTs, any single blockchain infrastructure is not scalable enough to target mass adoption.
 
-The blockchain ecosystem will scale similarly to how the internet scaled horizontally through the TCP/IP protocols and enabled disparate enterprise network communications to be interconnected and reach broader audiences.
+The blockchain ecosystem will scale similarly to how the internet scaled horizontally through the TCP/IP protocols and enable disparate enterprise network communications to be interconnected and reach broader audiences.
