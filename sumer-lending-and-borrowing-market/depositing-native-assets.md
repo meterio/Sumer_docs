@@ -16,7 +16,7 @@ In return for the supplied assets, liquidity providers will receive correspondin
 
 ### <mark style="background-color:blue;">Deposit Interest</mark>
 
-The value of sdrToken will continuously increase reflecting the deposit interest rates, which is set as a function of the supply & demand of the assets.&#x20;
+The value of sdrToken will continuously increase reflecting the deposit interest rates, which are set as a function of the supply & demand of the assets.&#x20;
 
 ### <mark style="background-color:blue;">Enable Asset as Collateral</mark>
 
