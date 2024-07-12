@@ -12,7 +12,7 @@ For example USDC, USDT, DAI, and suUSD are homogeneous assets and belong to the 
 
 #### <mark style="background-color:blue;">Heterogeneous Asset Group</mark>
 
-This asset group consists of tokens with varying value, liquidity, and risk factor.&#x20;
+This asset group consists of tokens with varying values, liquidity, and risk factor.&#x20;
 
 For example Stablecoins USDC, USDT, DAI have heterogeneous properties when compared to ETH or WBTC
 
