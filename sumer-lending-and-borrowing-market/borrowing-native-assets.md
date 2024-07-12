@@ -26,7 +26,7 @@ The maximum value of asset that can be borrowed when collateral and borrowing as
 
 The borrow limit is yielded as the sum of locked collateral value, times the maximum LTV ratio of collateral
 
-Borrows can be made until the user's liability reaches their position's borrow limit. . One should observe that the borrow limit fluctuates with the oracle-reported deposit asset price.&#x20;
+Borrows can be made until the user's liability reaches their position's borrow limit. . One should observe that the borrowing limit fluctuates with the oracle-reported deposit asset price.&#x20;
 
 ### <mark style="background-color:blue;">Borrow Interest</mark>&#x20;
 
