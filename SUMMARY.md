@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sumer.Money: Cross-chain Synthetic Assets Protocol](README.md)
+* [Sumer.Money: The Most Capital Efficient Blockchain Liquidity Infrastructure](README.md)
 
 ## BUSINESS CASE
 
