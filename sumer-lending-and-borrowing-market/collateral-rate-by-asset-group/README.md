@@ -22,7 +22,7 @@ _<mark style="color:yellow;">**NOTE:**</mark>_ These ratios and their parameters
 
 The maximum value of asset that can be borrowed when collateral and borrowing asset belong to the same homogeneous group
 
-<mark style="color:yellow;">For e.g. Borrowing ETH by supplying stETH</mark>
+<mark style="color:yellow;">For e.g. Borrowing ETH by supplying wstETH</mark>
 
 #### <mark style="background-color:blue;">Mint Rate</mark>
 
@@ -30,7 +30,7 @@ The maximum value of SuToken that can be minted when collateral and SuToken asse
 
 By design, The Mint Rate has the highest LTV for supplied assets (close to 1)
 
-<mark style="color:yellow;">For e.g. Minting  suETH by supplying ETH</mark>
+<mark style="color:yellow;">For e.g. Minting suETH by supplying ETH</mark>
 
 #### <mark style="background-color:blue;">Inter Collateral Rate or LTV</mark>
 

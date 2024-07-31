@@ -12,7 +12,7 @@ Each SuToken carries Collateral Rates (i.e. Loan-to-Value ratio), which signify 
 
 A Collateral Rate of 75% means that the users can only borrow up to 75% of the value of their collateralized assets.&#x20;
 
-Applicable Collateral Rates while minting SuTokens are;
+**Applicable Collateral Rates while minting SuTokens are;**
 
 #### <mark style="background-color:blue;">Mint Rate</mark>
 

@@ -2,23 +2,20 @@
 
 * [Sumer.Money: The Most Capital Efficient Blockchain Liquidity Infrastructure](README.md)
 
-## BUSINESS CASE
+## KEY PREMISE
 
-* [Key Trends in Blockchain and DeFI](business-case/key-trends-in-blockchain-and-defi/README.md)
-  * [The present and the future is multi-chain](business-case/key-trends-in-blockchain-and-defi/the-present-and-the-future-is-multi-chain.md)
-  * [DeFi growth and Composability](business-case/key-trends-in-blockchain-and-defi/defi-growth-and-composability.md)
-* [Missing Piece in DeFi Lego](business-case/missing-piece-in-defi-lego.md)
+* [The Future is Multichain](key-premise/the-future-is-multichain.md)
+* [Sumer - the most capital efficient Liquidity Infrastructure](key-premise/sumer-the-most-capital-efficient-liquidity-infrastructure/README.md)
+  * [Sumer's Capital Efficient unified liquidity pool](key-premise/sumer-the-most-capital-efficient-liquidity-infrastructure/sumers-capital-efficient-unified-liquidity-pool.md)
+  * [Sumer Synthetic Assets as Money Multipliers](key-premise/sumer-the-most-capital-efficient-liquidity-infrastructure/sumer-synthetic-assets-as-money-multipliers.md)
 
-## SUMER SYNTHETIC ASSETS
+## SUMER POINTS PROGRAM - A Call for the Tribe
 
-* [Credit Card for DeFI](sumer-synthetic-assets/credit-card-for-defi.md)
-* [Key Characteristics](sumer-synthetic-assets/key-characteristics.md)
-* [Key Value Propositions](sumer-synthetic-assets/key-value-propositions.md)
-* [Price Stability](sumer-synthetic-assets/price-stability.md)
-
-***
-
-* [Synergy with current cross-chain solutions](synergy-with-current-cross-chain-solutions.md)
+* [Introduction](sumer-points-program-a-call-for-the-tribe/introduction.md)
+* [Points Based Program](sumer-points-program-a-call-for-the-tribe/points-based-program.md)
+* [NFT Based Program](sumer-points-program-a-call-for-the-tribe/nft-based-program.md)
+* [Sumer Partner Program — Meter Points](sumer-points-program-a-call-for-the-tribe/sumer-partner-program-meter-points.md)
+* [FAQs](sumer-points-program-a-call-for-the-tribe/faqs.md)
 
 ## Sumer Lending and Borrowing Market
 
@@ -28,13 +25,13 @@
   * [Understanding the applicable mint limit](sumer-lending-and-borrowing-market/collateral-rate-by-asset-group/understanding-the-applicable-mint-limit.md)
 * [Deposit Native Assets](sumer-lending-and-borrowing-market/depositing-native-assets.md)
 * [Mint SuTokens](sumer-lending-and-borrowing-market/minting-sumer-assets/README.md)
-* [Redeem SuTokens](sumer-lending-and-borrowing-market/redeem-sutokens.md)
 * [Borrow Native Assets](sumer-lending-and-borrowing-market/borrowing-native-assets.md)
 * [Repay SuToken Liability](sumer-lending-and-borrowing-market/repayment-of-sutokens.md)
 * [Repay Borrowed Native Assets](sumer-lending-and-borrowing-market/repayment-of-borrowed-native-assets.md)
 * [​Interest Rate Model](sumer-lending-and-borrowing-market/interest-rate-model/README.md)
   * [Standard Model](sumer-lending-and-borrowing-market/interest-rate-model/standard-model.md)
   * [Jump (Kink) Model](sumer-lending-and-borrowing-market/interest-rate-model/jump-kink-model.md)
+* [Redeem SuTokens](sumer-lending-and-borrowing-market/redeem-sutokens.md)
 * [Liquidation Mechanism](sumer-lending-and-borrowing-market/liquidation-mechanism.md)
 * [Risk Management](sumer-lending-and-borrowing-market/risk-management.md)
 

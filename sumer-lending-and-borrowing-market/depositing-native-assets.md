@@ -1,12 +1,10 @@
 # Deposit Native Assets
 
-
-
 ### <mark style="background-color:blue;">Whitelisted Assets</mark>
 
 DeFI users looking to leverage the multi-chain fungible assets (SuTokens) can deposit the whitelisted assets in the Sumer protocol across any of the supported networks
 
-### <mark style="background-color:blue;">Aggregated Lending Pool</mark>&#x20;
+### <mark style="background-color:blue;">Unified Lending Pool</mark>&#x20;
 
 The protocol aggregates the deposit from each user into a pool of assets controlled by smart contracts, making it a fungible resource for the protocol while allowing users to withdraw their deposit at any time.&#x20;
 

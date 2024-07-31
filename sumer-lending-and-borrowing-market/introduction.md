@@ -22,10 +22,18 @@ Sumer Protocols money market is a Compound-inspired lending and borrowing protoc
 
 ### <mark style="background-color:blue;">Repay SuTokens</mark>
 
+* Repay SuToken liability
+
 ### <mark style="background-color:blue;">Repay Borrowed Assets</mark>
+
+* Repay Borrowed asset liability
 
 ### &#x20;<mark style="background-color:blue;">Liquidation</mark>
 
-The deposited native assets source their deposit yields from users/ DAOs/ dApps borrowing the assets.&#x20;
+* Liquidate accounts with low health
+
+### <mark style="background-color:blue;">Redemption</mark>
+
+* Redeem SuTokens to maintain the peg stability
 
 While the protocol can accept any type of cryptocurrency as collateral, the initial deployment of the Sumer Protocol will mainly accept on-chain stablecoins and blue-chip assets (ETH, BTC, USDC, USDT etc.) as collateral to smoothen out volatility in the collateral to reduce the risk exposure of the protocol.
