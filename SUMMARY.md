@@ -71,6 +71,7 @@
 * [Smart Contracts](developers/smart-contracts.md)
 * [sdr Tokens](developers/sdr-tokens.md)
 * [Price Feeds](developers/price-feeds/README.md)
+  * [RedStone Price Feeds on Zklink Nova](developers/price-feeds/redstone-price-feeds-on-zklink-nova.md)
   * [Pyth Price Feeds on Meter](developers/price-feeds/pyth-price-feeds-on-meter.md)
   * [Chainlink Price Feeds on Arbitrum](developers/price-feeds/chainlink-price-feeds-on-arbitrum.md)
   * [Chainlink Price Feeds on Base](developers/price-feeds/chainlink-price-feeds-on-base.md)
